@@ -18,34 +18,34 @@ import "vue-waterfall-plugin-next/dist/style.css";
 
 const list = ref([
   {
-    src: "./assets/img/dl.png", // 使用 require 引入图片
+    src: "/img/dl.png", // 使用 require 引入图片
   },
   {
-    src: "./assets/img/hd.png", // 使用 require 引入图片
+    src: "/img/hd.png", // 使用 require 引入图片
   },
   {
-    src: "./assets/img/dl.png", // 使用 require 引入图片
+    src: "/img/dl.png", // 使用 require 引入图片
   },
   {
-    src: "./assets/img/hd.png", // 使用 require 引入图片
+    src: "/img/hd.png", // 使用 require 引入图片
   },
   {
-    src: "./assets/img/dl.png", // 使用 require 引入图片
+    src: "/img/dl.png", // 使用 require 引入图片
   },
   {
-    src: "./assets/img/hd.png", // 使用 require 引入图片
+    src: "/img/hd.png", // 使用 require 引入图片
   },
   {
-    src: "./assets/img/dl.png", // 使用 require 引入图片
+    src: "/img/dl.png", // 使用 require 引入图片
   },
   {
-    src: "./assets/img/hd.png", // 使用 require 引入图片
+    src: "/img/hd.png", // 使用 require 引入图片
   },
   {
-    src: "./assets/img/dl.png", // 使用 require 引入图片
+    src: "/img/dl.png", // 使用 require 引入图片
   },
   {
-    src: "./assets/img/hd.png", // 使用 require 引入图片
+    src: "/img/hd.png", // 使用 require 引入图片
   },
 ]);
 function getImg(url) {
