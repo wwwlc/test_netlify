@@ -4,7 +4,7 @@
       <template #default="{ url }">
         <div class="card">
           <LazyImg :url="getImg(url)" />
-          <p class="text">{{item}}, {{ url }}kkkkkk</p>
+          <p class="text">{{item}}, {{ url }}eeeeeeeeeeeeeeeeeeee</p>
         </div>
       </template>
     </Waterfall>
